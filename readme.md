@@ -1,7 +1,7 @@
 ## Virtual threads
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/festuskerich/Java-virtual-Threads.git
 cd virtual-threads/restapi
 mvn spring-boot:run
 
